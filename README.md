@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
  👋 Hey there! I'm Daniel, a self-propelled learner and machine learning enthusiast from Israel. 
  
- # About Me 
+ ### About Me 
 
 🧠 I am fascinated by the technological singularity and its impact on society. I believe that emerging technologies, such as artificial intelligence and blockchain, play a crucial role in shaping our future.
 
