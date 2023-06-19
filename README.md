@@ -1,20 +1,14 @@
 ### Hi there 👋
 
- 👋 Hey there! I'm Daniel, a self-propelled learner and coding enthusiast from Israel. 
+ 👋 Hey there! I'm Daniel, a self-propelled learner and machine learning enthusiast from Israel. 
  
- 📚🌱 I'm addicted to the thrill of acquiring knowledge and constantly expanding my skill set.
- 
- 🚀🔍 With an insatiable thirst for learning, I embark on new ventures and embrace the joy of self-directed exploration. 
+ # About Me 
 
- 🌍🔗 I firmly believe that the future of humanity lies in the power of blockchain and decentralization. 
-It's a paradigm shift that promises a more equitable, transparent, and inclusive world. 
+🧠 I am fascinated by the technological singularity and its impact on society. I believe that emerging technologies, such as artificial intelligence and blockchain, play a crucial role in shaping our future.
 
+ Currently, I am deeply engaged in teaching myself 🔥PyTorch, a powerful open-source machine learning library. With PyTorch, I aim to explore the world of deep learning and develop innovative solutions to real-world problems.
 
+This repository serves as a record of my learning progress in PyTorch and other related technologies. Here, I document my experiments, projects, and insights gained along the way.
 
-What I'm working on:
+Feel free to explore my code and projects. I am always open to collaborations and discussions. 
 
-Currently, I'm immersed in the captivating world of decentralized applications (dApps) and actively developing my own crowdfunding dApp. It's an exciting endeavor that allows me to apply my newfound skills in Solidity and create a platform that empowers creators and fosters community support. 🌱💻
-
-In parallel, I'm diving deep into the realm of PyTorch, expanding my knowledge of machine learning. The intersection of machine learning and blockchain holds immense potential to revolutionize various industries and shape a future where humanity thrives in harmony with advanced technologies. 🧠🔬
-
-Driven by my passion for these transformative technologies, I'm fully dedicated to my projects and not actively seeking external opportunities. I believe in the power of personal growth, self-directed learning, and pursuing projects that align with my values. Together, let's envision and create a beautiful future where innovation and compassion go hand in hand. 🚀❤️
