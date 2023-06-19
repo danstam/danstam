@@ -1,4 +1,6 @@
-##  👋 Hey there! I'm Daniel, a self-propelled learner and machine learning enthusiast from Israel. 
+#  👋 Hey there! 
+
+## I'm Daniel, a self-propelled learner and machine learning enthusiast from Israel. 
 
 
  
